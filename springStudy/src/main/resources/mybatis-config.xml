@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+ 
+    <typeAliases>
+<!--     클래스 이름이 너무 긴 경우, 여기에 짧게 적기위한 별친을 적으면 된다 -->
+    
+<!--     	<typeAlias type = "com.hj.springStudy.member,model.to.MemberDTO" -->
+<!--     	alias="memberDto"/> -->
+    </typeAliases>
+ 
+</configuration>
